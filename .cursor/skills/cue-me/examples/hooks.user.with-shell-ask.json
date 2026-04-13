@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "hooks": {
+    "stop": [
+      {
+        "command": "./hooks/notify-stop.sh"
+      }
+    ],
+    "beforeShellExecution": [
+      {
+        "command": "./hooks/before-shell-notify-ask.sh",
+        "matcher": "curl|wget|nc "
+      }
+    ]
+  }
+}
