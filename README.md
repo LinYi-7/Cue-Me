@@ -1,5 +1,7 @@
 # Cue-Me
 
+官方仓库：<https://github.com/LinYi-7/Cue-Me->
+
 在 macOS 上通过 **Cursor Hooks** 在 Agent 结束、子任务结束或需要你在终端/MCP 里点批准时，弹出 **系统通知**（默认标题「Cue-Me 提醒」、中文正文）。通知通过 **terminal-notifier** 以 Cursor 的 Bundle ID 发送，与 **系统设置 → 通知 → Cursor** 一致。
 
 ## 适用环境
@@ -12,8 +14,8 @@
 ### 1. 拿到本仓库
 
 ```bash
-git clone https://github.com/<你的用户名>/<仓库名>.git
-cd <仓库名>
+git clone https://github.com/LinYi-7/Cue-Me-.git
+cd Cue-Me-
 ```
 
 ### 2. 安装脚本到本机
