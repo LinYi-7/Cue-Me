@@ -1,0 +1,21 @@
+【为什么必须你点一下】
+把代码推到 GitHub = 向你的账号证明「是我本人」，这个证明只能你在本机完成，别人（包括 AI）不能替你输入密码。
+
+【最省事：用 GitHub Desktop，几乎不用懂命令】
+
+1）打开浏览器，下载安装（免费）：
+   https://desktop.github.com/
+
+2）安装后打开 GitHub Desktop，按提示用浏览器登录你的 GitHub 账号。
+
+3）左上角菜单：File → Add Local Repository（添加本地仓库）
+   选择这个文件夹：
+   /Users/user/Downloads/cursor - cue/agent-notifier
+
+4）若界面里出现「Push origin」或「Publish repository」，点一下，等进度走完。
+
+5）打开网页查看是否成功：
+   https://github.com/LinYi-7/Cue-Me-
+
+【如果第 4 步报错】
+把 GitHub Desktop 里的红色报错文字复制下来，发给帮你的人或 Cursor 里的 AI 看。
