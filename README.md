@@ -9,6 +9,11 @@
 - macOS
 - Cursor（用户级 hooks：`~/.cursor/hooks.json`）
 
+## 运行截图
+<img width="852" height="393" alt="image" src="https://github.com/user-attachments/assets/3e19f333-a928-4196-99f0-8f10a47fe14b" />
+<img width="737" height="578" alt="image" src="https://github.com/user-attachments/assets/c62945fb-d16d-45f3-9c48-e9a96a336a47" />
+
+
 ## 别人怎么用
 
 ### 1. 拿到本仓库
